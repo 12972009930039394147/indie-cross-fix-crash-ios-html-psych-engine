@@ -1,18 +1,19 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		["Spookeez", "sans", [34, 51, 68]],
+		["South", "sans", [34, 51, 68]],
+		["Monster", "sans", [34, 51, 68]],
+	        ["Pico", "sans", [34, 51, 68]]
 	],
 
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"sans",
+		"fun",
+		""
 	],
-	"weekBackground": "halloween",
+	"weekBackground": "stage",
 
-	"storyName": "Spooky Month",
+	"storyName": "bad time",
 	"weekBefore": "week1",
 	"weekName": "Week 2",
 	"startUnlocked": true,
