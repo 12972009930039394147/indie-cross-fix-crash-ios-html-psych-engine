@@ -1,144 +1,144 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				221,
+				-44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "Sans FNF instance"
-		},
-		{
-			"offsets": [
-				49,
-				0
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left instance"
+			"name": "Idle No",
+			"indices": []
 		},
 		{
 			"offsets": [
-				-12,
-				-16
+				106,
+				-61
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Down instance"
+			"name": "Down N"
 		},
 		{
 			"offsets": [
-				-18,
-				27
+				77,
+				90
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Up instance"
+			"name": "Up N"
 		},
 		{
 			"offsets": [
-				-18,
-				-1
+				21,
+				-41
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Right instance"
+			"name": "Right N"
 		},
 		{
 			"offsets": [
-				-18,
-				-1
+				120,
+				418
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT-alt",
 			"indices": [],
-			"name": "Right 02 instance"
+			"name": "Right O"
 		},
 		{
 			"offsets": [
-				49,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "Left 02 instance"
-		},
-		{
-			"offsets": [
-				-12,
-				-15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "Down 02 instance"
-		},
-		{
-			"offsets": [
-				36,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP-alt",
-			"indices": [],
-			"name": "Up 02 instance"
-		},
-		{
-			"offsets": [
-				-15,
-				-1
+				236,
+				457
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle-alt",
 			"indices": [],
-			"name": "Sans FNF 02 instance"
+			"name": "Oblivion"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				406
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Left O",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				175,
+				391
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Down O",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				536
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Up O",
+			"indices": []
 		},
 		{
 			"offsets": [
-				98,
-				24
+				-7,
+				-28
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "dodge",
+			"anim": "transform",
 			"loop": false,
-			"name": "SansDodge"
+			"name": "T"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/Mom_Assets",
+	"image": "characters/bendydagames",
 	"position": [
 		0,
 		200
 	],
-	"healthicon": "sans",
+	"healthicon": "bendy2",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
-		0,
-		0
+		255,
+		255
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1
+	"scale": 1.5
 }

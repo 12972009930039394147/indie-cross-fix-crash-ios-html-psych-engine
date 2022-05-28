@@ -3,8 +3,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				130,
-				5
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sans FNF instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -14,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				1,
-				-28
+				-12,
+				-17
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -25,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				40,
-				110
+				-17,
+				27
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -36,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				10,
-				23
+				-18,
+				-2
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -46,77 +57,88 @@
 		},
 		{
 			"offsets": [
-				0,
+				-18,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right Tired"
+		},
+		{
+			"offsets": [
+				49,
 				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
-			"anim": "idle",
-			"loop": true,
-			"name": "1 instance"
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left Tired"
 		},
 		{
 			"offsets": [
-				20,
-				0
+				-12,
+				-15
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "attack",
 			"loop": false,
-			"name": "Roundattack instance"
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down Tired"
 		},
 		{
 			"offsets": [
-				110,
-				-10
+				36,
+				30
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "ouch",
 			"loop": false,
-			"name": "Ouch instance"
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up Tired"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Sans FNF Tired instance",
+			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				-12
+				100,
+				21
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "die",
+			"anim": "dodge",
 			"loop": false,
-			"name": "DIE BITCH instance"
-		},
-		{
-			"offsets": [
-				340,
-				248
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "hadoken",
-			"loop": false,
-			"name": "Hadoken!! instance"
+			"name": "SansDodge instance 1"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/gfChristmas",
+	"no_antialiasing": true,
+	"image": "characters/Sans_Phase_3",
 	"position": [
-		50,
-		410
+		0,
+		200
 	],
-	"healthicon": "gf",
+	"healthicon": "sans",
 	"flip_x": false,
 	"healthbar_colors": [
-		171,
-		22,
-		74
+		255,
+		0,
+		0
 	],
 	"camera_position": [
-		-230,
-		-20
+		0,
+		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.5
+	"scale": 1
 }
